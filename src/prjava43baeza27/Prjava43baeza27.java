@@ -1,7 +1,9 @@
 package prjava43baeza27; 
 import java.awt.*;        // using AWT containers and components 
-import java.awt.event.*;  // using AWT events and listener interfaces 
-import java.net.*;
+import java.awt.event.*;  // using AWT events and listener interfaces
+import java.io.*;
+
+ 
 // An AWT GUI program inherits the top-level container java.awt.Frame 
 public class Prjava43baeza27 extends Frame 
       implements ActionListener, WindowListener { 
